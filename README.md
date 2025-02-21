@@ -1,5 +1,4 @@
-# SSL-MultiX
-Consensus-Guided Evaluation of Self-Supervised Learning in Echocar diographic Segmentation
+# Consensus-Guided Evaluation of Self-Supervised Learning in Echocardiographic Segmentation
 
 The complete source code and dataset will be released with the research paper.
 
