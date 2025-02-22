@@ -7,7 +7,7 @@ The complete source code and dataset will be released with the research paper.
 The following datasets are used in this research study:
 1. The Unity Dataset used in this study is available for download from https://data.unityimaging.net/
    This dataset is used for training/fine-tuning.
-2. The new UnityLV-MultiX introduced in this study would be available for download from https://www.intsav.com/unitylv-multix
+2. The new UnityLV-MultiX introduced in this study will be available for download from https://www.intsav.com/unitylv-multix
    This dataset contains multi-expert labels, used for evaluation.
 
 
