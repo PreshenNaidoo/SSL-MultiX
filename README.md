@@ -12,11 +12,15 @@ The following datasets are used in this research study:
 
 
 ## Packages
-Python 3.10
-Tensorflow 2.15.0
-Tensorflow-addons 0.22.0
-Keras 2.15.0
-Pandas 1.5.3
-Numpy 1.24.4
-OpenCV 4.5.5.64
+
+The following packages are required:
+
+- **Python** 3.10  
+- **TensorFlow** 2.15.0  
+- **TensorFlow-Addons** 0.22.0  
+- **Keras** 2.15.0  
+- **Pandas** 1.5.3  
+- **NumPy** 1.24.4  
+- **OpenCV** 4.5.5.64  
+
    
