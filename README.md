@@ -10,7 +10,7 @@ The following datasets are used in this research study:
 1. **Unity Dataset** – Available at [data.unityimaging.net](https://data.unityimaging.net/)  
    - Used for training and fine-tuning.  
 
-2. **UnityLV-MultiX Dataset** – Introduced in this study, available soon at [intsav.com/unitylv-multix](https://www.intsav.com/unitylv-multix)  
+2. **UnityLV-MultiX Dataset** – Introduced in this study, available at [thrive-centre.com/unitylv-multix](https://www.thrive-centre.com/datasets/UnityLV-MultiX)  
    - Contains multi-expert labels and is used for evaluation.  
 
 
