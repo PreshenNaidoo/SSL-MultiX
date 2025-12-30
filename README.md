@@ -1,6 +1,15 @@
-# Consensus-Guided Evaluation of Self-Supervised Learning in Echocardiographic Segmentation
+## 📄 Publication
 
-The complete source code and dataset will be released with the research paper.
+This work has been published as:
+
+**Consensus-Guided Evaluation of Self-Supervised Learning in Echocardiographic Segmentation**  
+Preshen Naidoo, Patricia Fernandes, Nasim Dadashi Serej, Charlotte H. Manisty, Matthew J. Shun-Shin, Darrel P. Francis, Massoud Zolgharni  
+*Computers in Biology and Medicine*, Volume 198 (Nov 2025), Article 111148  
+📄 https://doi.org/10.1016/j.compbiomed.2025.111148
+
+### Abstract
+
+We investigate self-supervised learning (SSL) for left ventricle segmentation in echocardiography, comparing multiple pretext tasks. We introduce the *UnityLV-MultiX* dataset with multi-expert consensus labels and propose a consensus-guided evaluation protocol to improve reliability. Our results show that contrastive SSL methods, when fine-tuned with limited labeled data (≈15%), achieve stronger alignment with multi-expert consensus than individual expert annotations — highlighting the promise of SSL to reduce labeling burden while improving model robustness and reproducibility.
 
 
 ## Downloading the Datasets
